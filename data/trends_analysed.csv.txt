@@ -1,0 +1,41 @@
+post_id,title,category,score,num_comments,author,collected_at,engagement,is_popular
+1001,AI revolution in software development,technology,1200,210,user1,2026-04-09 16:30:00,0.17,True
+1002,New GPU architecture released,technology,980,150,user2,2026-04-09 16:30:00,0.15,False
+1003,Cloud computing trends 2026,technology,870,120,user3,2026-04-09 16:30:00,0.14,False
+1004,Python vs Java performance,technology,760,95,user4,2026-04-09 16:30:00,0.12,False
+1005,LLM models transforming AI,technology,1500,300,user5,2026-04-09 16:30:00,0.20,True
+1006,Quantum computing progress,technology,920,160,user6,2026-04-09 16:30:00,0.17,False
+1007,Cybersecurity threats rise,technology,840,120,user7,2026-04-09 16:30:00,0.14,False
+1008,Open source tools growth,technology,780,100,user8,2026-04-09 16:30:00,0.13,False
+1009,AI chip innovation,technology,890,140,user9,2026-04-09 16:30:00,0.16,False
+1010,Future of data science,technology,860,130,user10,2026-04-09 16:30:00,0.15,False
+
+1011,Big data analytics trends,technology,830,115,user11,2026-04-09 16:30:00,0.14,False
+1012,Machine learning in healthcare,technology,910,145,user12,2026-04-09 16:30:00,0.16,False
+1013,API development best practices,technology,780,110,user13,2026-04-09 16:30:00,0.14,False
+1014,Cloud security improvements,technology,870,125,user14,2026-04-09 16:30:00,0.14,False
+1015,AI coding assistants growth,technology,1400,280,user15,2026-04-09 16:30:00,0.20,True
+
+1021,Global war tensions increase,worldnews,2000,450,user21,2026-04-09 16:30:00,0.22,True
+1022,Election results announced,worldnews,1800,400,user22,2026-04-09 16:30:00,0.22,True
+1023,Climate change summit update,worldnews,1600,380,user23,2026-04-09 16:30:00,0.23,True
+1024,New government policy,worldnews,1400,300,user24,2026-04-09 16:30:00,0.21,True
+1025,Global economy shifts,worldnews,1300,250,user25,2026-04-09 16:30:00,0.19,True
+
+1041,NBA finals highlights,sports,1100,200,user41,2026-04-09 16:30:00,0.18,False
+1042,FIFA world cup news,sports,1050,180,user42,2026-04-09 16:30:00,0.17,False
+1043,Top football players ranking,sports,980,170,user43,2026-04-09 16:30:00,0.17,False
+1044,Championship final match,sports,900,160,user44,2026-04-09 16:30:00,0.17,False
+1045,Olympics preparation updates,sports,870,140,user45,2026-04-09 16:30:00,0.16,False
+
+1051,NASA launches new mission,science,2100,500,user51,2026-04-09 16:30:00,0.24,True
+1052,New biology research discovery,science,1900,420,user52,2026-04-09 16:30:00,0.22,True
+1053,Space exploration milestone,science,1700,390,user53,2026-04-09 16:30:00,0.23,True
+1054,Physics breakthrough study,science,1600,360,user54,2026-04-09 16:30:00,0.22,True
+1055,Genome editing success,science,1500,330,user55,2026-04-09 16:30:00,0.22,True
+
+1061,Netflix new movie release,entertainment,1300,250,user61,2026-04-09 16:30:00,0.19,True
+1062,Top music charts trending,entertainment,1200,220,user62,2026-04-09 16:30:00,0.18,True
+1063,Award show highlights,entertainment,1100,210,user63,2026-04-09 16:30:00,0.19,False
+1064,Popular TV series review,entertainment,1000,200,user64,2026-04-09 16:30:00,0.20,False
+1065,Streaming platforms growth,entertainment,950,180,user65,2026-04-09 16:30:00,0.19,False

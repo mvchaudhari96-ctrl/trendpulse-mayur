@@ -1,0 +1,75 @@
+post_id,title,category,score,num_comments,author,collected_at
+1001,AI revolution in software development,technology,1200,210,user1,2026-04-09 16:30:00
+1002,New GPU architecture released,technology,980,150,user2,2026-04-09 16:30:00
+1003,Cloud computing trends 2026,technology,870,120,user3,2026-04-09 16:30:00
+1004,Python vs Java performance,technology,760,95,user4,2026-04-09 16:30:00
+1005,LLM models transforming AI,technology,1500,300,user5,2026-04-09 16:30:00
+1006,Quantum computing progress,technology,920,160,user6,2026-04-09 16:30:00
+1007,Cybersecurity threats rise,technology,840,120,user7,2026-04-09 16:30:00
+1008,Open source tools growth,technology,780,100,user8,2026-04-09 16:30:00
+1009,AI chip innovation,technology,890,140,user9,2026-04-09 16:30:00
+1010,Future of data science,technology,860,130,user10,2026-04-09 16:30:00
+1011,Big data analytics trends,technology,830,115,user11,2026-04-09 16:30:00
+1012,Machine learning in healthcare,technology,910,145,user12,2026-04-09 16:30:00
+1013,API development best practices,technology,780,110,user13,2026-04-09 16:30:00
+1014,Cloud security improvements,technology,870,125,user14,2026-04-09 16:30:00
+1015,AI coding assistants growth,technology,1400,280,user15,2026-04-09 16:30:00
+1016,Software engineering trends,technology,800,100,user16,2026-04-09 16:30:00
+1017,Tech startups boom,technology,920,135,user17,2026-04-09 16:30:00
+1018,Blockchain beyond crypto,technology,880,120,user18,2026-04-09 16:30:00
+1019,Edge computing rise,technology,860,118,user19,2026-04-09 16:30:00
+1020,AI ethics debate,technology,970,150,user20,2026-04-09 16:30:00
+
+1021,Global war tensions increase,worldnews,2000,450,user21,2026-04-09 16:30:00
+1022,Election results announced,worldnews,1800,400,user22,2026-04-09 16:30:00
+1023,Climate change summit update,worldnews,1600,380,user23,2026-04-09 16:30:00
+1024,New government policy,worldnews,1400,300,user24,2026-04-09 16:30:00
+1025,Global economy shifts,worldnews,1300,250,user25,2026-04-09 16:30:00
+1026,International relations update,worldnews,1100,200,user26,2026-04-09 16:30:00
+1027,Political debate highlights,worldnews,1180,210,user27,2026-04-09 16:30:00
+1028,War impact analysis,worldnews,1080,195,user28,2026-04-09 16:30:00
+1029,Global crisis updates,worldnews,1250,220,user29,2026-04-09 16:30:00
+1030,Policy reform changes,worldnews,1020,180,user30,2026-04-09 16:30:00
+1031,Global diplomacy talks,worldnews,1150,205,user31,2026-04-09 16:30:00
+1032,Climate policy reforms,worldnews,1180,215,user32,2026-04-09 16:30:00
+1033,UN meeting highlights,worldnews,1220,230,user33,2026-04-09 16:30:00
+1034,Global inflation news,worldnews,1300,260,user34,2026-04-09 16:30:00
+1035,International conflict update,worldnews,1350,275,user35,2026-04-09 16:30:00
+1036,Energy crisis worldwide,worldnews,1400,290,user36,2026-04-09 16:30:00
+1037,Political reforms analysis,worldnews,1250,240,user37,2026-04-09 16:30:00
+1038,World economy recovery,worldnews,1280,250,user38,2026-04-09 16:30:00
+1039,Global health policies,worldnews,1100,200,user39,2026-04-09 16:30:00
+1040,Trade agreements update,worldnews,1200,220,user40,2026-04-09 16:30:00
+
+1041,NBA finals highlights,sports,1100,200,user41,2026-04-09 16:30:00
+1042,FIFA world cup news,sports,1050,180,user42,2026-04-09 16:30:00
+1043,Top football players ranking,sports,980,170,user43,2026-04-09 16:30:00
+1044,Championship final match,sports,900,160,user44,2026-04-09 16:30:00
+1045,Olympics preparation updates,sports,870,140,user45,2026-04-09 16:30:00
+1046,Cricket league updates,sports,860,130,user46,2026-04-09 16:30:00
+1047,Best athletes 2026,sports,840,120,user47,2026-04-09 16:30:00
+1048,Football transfer news,sports,820,115,user48,2026-04-09 16:30:00
+1049,Team rankings update,sports,800,110,user49,2026-04-09 16:30:00
+1050,Major sports events,sports,780,105,user50,2026-04-09 16:30:00
+
+1051,NASA launches new mission,science,2100,500,user51,2026-04-09 16:30:00
+1052,New biology research discovery,science,1900,420,user52,2026-04-09 16:30:00
+1053,Space exploration milestone,science,1700,390,user53,2026-04-09 16:30:00
+1054,Physics breakthrough study,science,1600,360,user54,2026-04-09 16:30:00
+1055,Genome editing success,science,1500,330,user55,2026-04-09 16:30:00
+1056,Medical research progress,science,1400,300,user56,2026-04-09 16:30:00
+1057,New space telescope data,science,1350,280,user57,2026-04-09 16:30:00
+1058,Chemistry innovation,science,1200,250,user58,2026-04-09 16:30:00
+1059,Physics Nobel predictions,science,1100,230,user59,2026-04-09 16:30:00
+1060,AI in biology research,science,1000,210,user60,2026-04-09 16:30:00
+
+1061,Netflix new movie release,entertainment,1300,250,user61,2026-04-09 16:30:00
+1062,Top music charts trending,entertainment,1200,220,user62,2026-04-09 16:30:00
+1063,Award show highlights,entertainment,1100,210,user63,2026-04-09 16:30:00
+1064,Popular TV series review,entertainment,1000,200,user64,2026-04-09 16:30:00
+1065,Streaming platforms growth,entertainment,950,180,user65,2026-04-09 16:30:00
+1066,Top movies of the year,entertainment,900,170,user66,2026-04-09 16:30:00
+1067,Music industry trends,entertainment,880,160,user67,2026-04-09 16:30:00
+1068,Film festival updates,entertainment,860,150,user68,2026-04-09 16:30:00
+1069,Best web series ranking,entertainment,840,140,user69,2026-04-09 16:30:00
+1070,Streaming vs cinema debate,entertainment,820,130,user70,2026-04-09 16:30:00
